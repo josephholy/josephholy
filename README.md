@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @josephholy
-- 👀 I’m interested in robotics, artificial intelligence and machine learning.
-- 🌱 I’m currently learning python(beginners and advanced),
-- 💞️ I’m looking to collaborate on the subject of machine learning, electronics and many more interesting stuff in the above mentioned fields.
+ Hi, I’m @josephholy
+- things have significantly improved since i was last here
+-  I’m now actively pursuing mastery machine learning.
+- I’m currently learning practical machine learning
+- i will dive into robotics soon
+- i need a job first
 - 📫 How to reach me- josepholyadeniran@gmail.com
 - 😄 Pronouns: He, His
 - ⚡ Fun fact: I like to read a lot and travel around the world.
